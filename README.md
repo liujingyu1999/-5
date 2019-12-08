@@ -170,7 +170,7 @@ public void actionPerformed(java.awt.event.ActionEvent evt) {
 --------
 ![](https://github.com/liujingyu1999/-5/blob/master/1.jpg)
 ![](https://github.com/liujingyu1999/-5/blob/master/2.jpg)
-![](https://github.com/liujingyu1999/-5/blob/master/1.jpg)
+![](https://github.com/liujingyu1999/-5/blob/master/3.jpg)
 ![](https://github.com/liujingyu1999/-5/blob/master/1.jpg)
 实验过程
 -----------

@@ -120,7 +120,8 @@ return pstmt.executeQuery();
 		this.password = password;
 	}
 ```
-3．界面大小设计<br>
+3．界面大小设计
+```
 public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jb_resetActionPerformed(evt);
 			}
@@ -166,16 +167,18 @@ public void actionPerformed(java.awt.event.ActionEvent evt) {
 																				javax.swing.GroupLayout.PREFERRED_SIZE,
 																				144,
 																				javax.swing.GroupLayout.PREFERRED_SIZE))
+```
 实验结果
 --------
 ![](https://github.com/liujingyu1999/-5/blob/master/1.jpg)
 ![](https://github.com/liujingyu1999/-5/blob/master/2.jpg)
 ![](https://github.com/liujingyu1999/-5/blob/master/3.jpg)
-![](https://github.com/liujingyu1999/-5/blob/master/1.jpg)
+![](https://github.com/liujingyu1999/-5/blob/master/5.jpg)
+
 实验过程
 -----------
-查询资料，整理方向，理清代码，编译代码，输入古诗，调试代码，按要求输出。<br>
+查询资料，整理方向，理清代码，编译代码，，调试代码。<br>
 
 编程感想
 ------------
-在这次实验中，学会如何在一段文字中，查找某文字出现的次数。遇到不会的要虚心向同学请教，敢于向同学问问题或自己上网查资料。<br>
+在这次实验中，学会了如何设计程序，运用相应代码设计登录界面，在设计中我深知自己掌握的知识还远远不够，掌握的一些理论知识应用到实践中去，总会出现这样或那样的问题，不是理论没有掌握好，而是光知道书本上的知识是远远不够的，一定要把理论知识和实践结合起来。把学到的知识应用到时间中去，多做多练，才可以把理论的精华发挥出来。知识不是知道，了解就好，一定要去应用它，发展它，让它在现实生活中得到充分的应用，从而解决一些问题，这才是学习的根本目的。而且知识又不是单一的，它是互相联系的，学科与学科之间都有着内在的联系。2通过这次设计，我学会了和别人配合工作，因为一个人所学的知识不可能面面俱到的，只有通过合作，发挥自己的优点，体现团队精神，才能使工作做得更为出色。通过这次设计，我学到了许多书本上学不到的知识，增强了自己的动手能力。即将毕业我十分珍惜这次锻炼的机会，我按部就班的完成了自己的设计任务，但由于自己的知识水平有限，仍然存在很多的不足之处，恳请老师多多指教！当今的社会是竞争的社会，而人才的竞争则是竞争的焦点，毕业设计对于我们即将离校的同学来说，是离校前很好的一次锻炼，使我们各方面的能力都有了很大的提高，为我们踏出校门，走上社会增强了能力与自信！<br>
